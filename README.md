@@ -1,2 +1,2 @@
 # algorithm_practice
-algorithm repositorie for me.
+algorithm repository for me.
